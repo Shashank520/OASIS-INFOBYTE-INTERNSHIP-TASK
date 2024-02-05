@@ -20,7 +20,7 @@ These characteristics act as features that play a crucial role in distinguishing
 
 **OBJECTIVES**
 
-*Data Collection: A dataset (sales_data.csv) was created with columns such as 'Date,' 'Product,' 'Price,' 'Quantity,' and 'Sales.'
+* Data Collection: A dataset (sales_data.csv) was created with columns such as 'Date,' 'Product,' 'Price,' 'Quantity,' and 'Sales.'
 
 *Data Preprocessing:
 
