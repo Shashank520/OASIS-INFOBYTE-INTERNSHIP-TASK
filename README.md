@@ -18,7 +18,7 @@ These characteristics act as features that play a crucial role in distinguishing
 
 # Task 2- Sales Prediction
 
-  **OBJECTIVES**
+   **OBJECTIVES**
 
 * Data Collection: A dataset (sales_data.csv) was created with columns such as 'Date,' 'Product,' 'Price,' 'Quantity,' and 'Sales.'
 
@@ -43,11 +43,11 @@ These characteristics act as features that play a crucial role in distinguishing
 
 # Task 3- Unemployment Analysis
 
-  **OBJECTIVES**
+   **OBJECTIVES**
 
 This analysis focuses on evaluating the impact of the COVID-19 pandemic on India's employment landscape. The dataset being examined includes vital details about unemployment rates in different Indian states. It covers essential indicators like States, Date, Measuring Frequency, Estimated Unemployment Rate (%), Estimated Employed Individuals, and Estimated Labour Participation Rate (in %).
 
-# The objective for conducting an unemployment analysis can vary depending on the specific goals and context, but generally, the key objectives include:
+**The objective for conducting an unemployment analysis can vary depending on the specific goals and context, but generally, the key objectives include:**
 
 * Understanding Unemployment Trends
 
