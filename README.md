@@ -18,47 +18,47 @@ These characteristics act as features that play a crucial role in distinguishing
 
 # Task 2- Sales Prediction
 
-**OBJECTIVES**
+  **OBJECTIVES**
 
 * Data Collection: A dataset (sales_data.csv) was created with columns such as 'Date,' 'Product,' 'Price,' 'Quantity,' and 'Sales.'
 
-*Data Preprocessing:
+* Data Preprocessing:
 
-*Loaded the sales data into a pandas DataFrame.
+* Loaded the sales data into a pandas DataFrame.
 
-*Converted the 'Date' column to datetime format.
+* Converted the 'Date' column to datetime format.
 
-*Extracted additional features like 'Month' and 'Day' from the 'Date' column.
+* Extracted additional features like 'Month' and 'Day' from the 'Date' column.
 
-*Feature Engineering:
+* Feature Engineering:
 
-*Selected relevant features for training the model, including 'Month,' 'Day,' 'Price,' and 'Quantity.'
+* Selected relevant features for training the model, including 'Month,' 'Day,' 'Price,' and 'Quantity.'
 
-*Rows & Column:: There are total 200 rows and 04 columns.
+* Rows & Column:: There are total 200 rows and 04 columns.
 
-*In Data collection:: I have found various columns with help of coding which are head(),tail(),describe(),info(),row(),column(). Some of the methods used & some column to be updated and changed here. Some columns has deleted due to duplicate column present in the list & many more things happened, you can easily go through my project.
+* In Data collection:: I have found various columns with help of coding which are head(),tail(),describe(),info(),row(),column(). Some of the methods used & some column to be updated and changed here. Some columns has deleted due to duplicate column present in the list & many more things happened, you can easily go through my project.
 
-*Before visualizing any data from the Dataset we have done data Wrangling here. With the help of this we checked the null value of all the columns.After getting most null value in the columns, i dropped that columns by using "drop method".When we find minimal number of null values, filling those null values with necessary value as per as requirement by using .fillna().
+* Before visualizing any data from the Dataset we have done data Wrangling here. With the help of this we checked the null value of all the columns.After getting most null value in the columns, i dropped that columns by using "drop method".When we find minimal number of null values, filling those null values with necessary value as per as requirement by using .fillna().
 
 
 # Task 3- Unemployment Analysis
 
-**OBJECTIVES**
+  **OBJECTIVES**
 
 This analysis focuses on evaluating the impact of the COVID-19 pandemic on India's employment landscape. The dataset being examined includes vital details about unemployment rates in different Indian states. It covers essential indicators like States, Date, Measuring Frequency, Estimated Unemployment Rate (%), Estimated Employed Individuals, and Estimated Labour Participation Rate (in %).
 
 # The objective for conducting an unemployment analysis can vary depending on the specific goals and context, but generally, the key objectives include:
 
-*Understanding Unemployment Trends
+* Understanding Unemployment Trends
 
-*Identifying Causes of Unemployment
+* Identifying Causes of Unemployment
 
-*Demographic Analysis
+* Demographic Analysis
 
-*Regional Analysis
+* Regional Analysis
 
-*Skill Mismatch Analysis
+* Skill Mismatch Analysis
 
-*Forecasting Future Trends
+* Forecasting Future Trends
 
-*Comparative Analysis
+* Comparative Analysis
