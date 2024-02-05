@@ -1,6 +1,6 @@
 # OASIS-INFOBYTE-INTERNSHIP-TASK
 
-# Task 1- IRIS FLOWER CLASSIFICATION 
+## Task 1- IRIS FLOWER CLASSIFICATION 
 
 **OBJECTIVES**
 
@@ -16,7 +16,7 @@ The Iris dataset is a widely recognized and classic dataset in the realm of mach
 
 These characteristics act as features that play a crucial role in distinguishing among the three Iris species. The Iris dataset is frequently employed as a foundational illustration when introducing key concepts like data preprocessing, exploratory data analysis, and classification algorithms in machine learning. Based on these four features, the goal is to classify each flower into one of the three species. The dataset is balanced, meaning there is an equal number of samples for each species.
 
-# Task 2- Sales Prediction
+## Task 2- Sales Prediction
 
    **OBJECTIVES**
 
@@ -41,7 +41,7 @@ These characteristics act as features that play a crucial role in distinguishing
 * Before visualizing any data from the Dataset we have done data Wrangling here. With the help of this we checked the null value of all the columns.After getting most null value in the columns, i dropped that columns by using "drop method".When we find minimal number of null values, filling those null values with necessary value as per as requirement by using .fillna().
 
 
-# Task 3- Unemployment Analysis
+## Task 3- Unemployment Analysis
 
    **OBJECTIVES**
 
