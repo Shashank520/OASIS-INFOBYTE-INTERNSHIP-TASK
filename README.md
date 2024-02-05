@@ -4,7 +4,9 @@
 
 **OBJECTIVES**
 
-The Iris dataset is a widely recognized and classic dataset in the realm of machine learning. It contains data on three distinct species of Iris flowers: Iris setosa, Iris versicolor, and Iris virginica. Frequently utilized for tasks like classification, pattern recognition, and data visualization, this dataset serves as a common benchmark in the field. The dataset contains the following attributes for each flower specimen: 1.Sepal length in centimeters
+The Iris dataset is a widely recognized and classic dataset in the realm of machine learning. It contains data on three distinct species of Iris flowers: Iris setosa, Iris versicolor, and Iris virginica. Frequently utilized for tasks like classification, pattern recognition, and data visualization, this dataset serves as a common benchmark in the field. The dataset contains the following attributes for each flower specimen: 
+
+1.Sepal length in centimeters
 
 2.Sepal width in centimeters
 
